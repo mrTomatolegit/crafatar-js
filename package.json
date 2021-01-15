@@ -1,6 +1,6 @@
 {
   "name": "crafatar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "URL constructor for crafatar.com",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,15 @@
     "crafatar",
     "minecraft"
   ],
-  "author": "mrTomatolegit",
-  "license": "ISC"
+  "author": "mrtomatolegit",
+  "license": "ISC",
+  "repository": {
+    "directory": "https://github.com/mrTomatolegit/crafatar-js",
+    "type": "git",
+    "url": "git+https://github.com/mrTomatolegit/crafatar-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrTomatolegit/crafatar-js/issues"
+  },
+  "homepage": "https://github.com/mrTomatolegit/crafatar-js#readme"
 }
